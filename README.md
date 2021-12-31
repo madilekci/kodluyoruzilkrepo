@@ -30,5 +30,9 @@ code .
 # CSS 
 - Google'ın ilk çıktığı zamana ait anasayfası ile identical olacak şekilde bir sayfa tasarladım.
 
+# Bootstrap
+- Ödev 1 için bir 3 sayfadan oluşan müzik market sayfası hazırladım. Basit bir şekilde About us , Products ve Homepage tasarımlarını yaptım.
+- Ödev 2 için Instagram anasayfasının bir klonunu tasarladık.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
