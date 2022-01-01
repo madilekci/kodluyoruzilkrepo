@@ -33,6 +33,8 @@ code .
 # Bootstrap
 - Ödev 1 için bir 3 sayfadan oluşan müzik market sayfası hazırladım. Basit bir şekilde About us , Products ve Homepage tasarımlarını yaptım.
 - Ödev 2 için Instagram anasayfasının bir klonunu tasarladık.
+- Bölüm sonu alıştırması olarak Medium websitesinin anasayfasını Bootstrap 5 ile tasarladım. (Bootstrap ve FontAwesome için gereken dosyaları github'a yüklemedim. Bu tasarımımı görmek isterseniz gereken dosyaları eklemeniz gerekecek. )
+- 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
