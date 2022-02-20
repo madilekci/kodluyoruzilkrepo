@@ -3,26 +3,6 @@
 Bu repo Patika.dev Giriş seviyesi PHP Eğitiminde oluşturduğumuz ilk repo. Bu eğitim kapsamında yaptığım ödevlerden HTML/CSS/Bootstrap ile ilgili olanları bu repository altında topladım.
 
 
-## Installation
-
-Öncelikle projeyi clonelayın.
-
-```bash
-git clone https://github.com/madilekci/kodluyoruzilkrepo.git
-```
-
-## Usage
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
-```linux
-cd kodluyoruzilkrepo
-code .
-```
-
-## Yaptığım ödevler
-
 # HTML 
  - Ödev 1 ve Ödev 2 için bir hakkında sayfası oluşturdum. İçine sevdiğim filmler/kitaplar , kendimden bahsettiğim bir paragraf , bir fotoğrafım gibi bazı içerikler ekleyerek detaylandırdım. 
 - Ödev 3 için sevdiğimiz bir tatlının tafini paylaşabileceğimiz bir yemek tarifi sayfası hazırladım.
